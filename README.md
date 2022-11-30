@@ -6,7 +6,7 @@ ARC Plugin for adding IAM Authentication
 ## Usage
 
 ```sh
-npm i arc-plugin-iam-auth
+npm i arc-plugin-iam-auth --save-dev
 ```
 
 ```sh
